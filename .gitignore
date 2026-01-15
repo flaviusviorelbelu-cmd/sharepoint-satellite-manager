@@ -1,0 +1,37 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Node.js (if using npm/Node tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+dist/
+build/
+*.min.js
+
+# Temporary files
+*.tmp
+*.temp
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# SharePoint specific
+*.spapp
+*.wsp
